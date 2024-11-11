@@ -1,0 +1,140 @@
+{
+  "allVideos": [
+    {
+      "id": "2",
+      "caption": "the substance",
+      "url": "https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg",
+      "link": "https://www.youtube.com/embed/LNlrGhBpYjc"
+    },
+    {
+      "id": "3",
+      "caption": "ballerina",
+      "url": "https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_.jpg",
+      "link": "https://www.youtube.com/embed/0FSwsrFpkbw"
+    },
+    {
+      "id": "4",
+      "caption": "nosferatu",
+      "url": "https://posterspy.com/wp-content/uploads/2024/06/Nosferatu.jpg",
+      "link": "https://www.youtube.com/embed/b59rxDB_JRg"
+    },
+    {
+      "id": "5",
+      "caption": "gladiator 2",
+      "url": "https://yc.cldmlk.com/8egh4pzb72gwe1mpt1vtez21a8/uploads/vertical_dc62545c-96af-4322-9238-be582aac9cd9.jpg",
+      "link": "https://www.youtube.com/embed/Ts0N8swyWFI"
+    },
+    {
+      "id": "6",
+      "caption": "deadpool & wolverine",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg",
+      "link": "https://www.youtube.com/embed/73_1biulkYk"
+    },
+    {
+      "id": "7",
+      "caption": "Mickey 17 | Official Trailer",
+      "url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/10/mickey_oneseven_xxlg.jpg",
+      "link": "https://www.youtube.com/embed/osYpGSz_0i4"
+    },
+    {
+      "id": "8",
+      "caption": "COOLIE - #Thalaivar171 ",
+      "url": "https://i0.wp.com/moviegalleri.net/wp-content/uploads/2024/04/Superstar-Rajinikanth-Coolie-Movie-Poster-HD-scaled.jpg?fit=1707%2C2560&ssl=1",
+      "link": "https://www.youtube.com/embed/6xqNk5Sf5jo"
+    },
+    {
+      "id": "9",
+      "caption": "Mission: Impossible – The Final Reckoning",
+      "url": "https://lh5.googleusercontent.com/proxy/cr8-YxSBBNFpd3_lKWPMbwII3_Ni5AvPSI3Q39CeBXXbECE-pN4AEV7bsV0i2Vpy7TGMvTcK1X34DM1aeSAuEtHgjZZnsfbisMJ25OSscsSS3j57PR0xBXyZyVBEGyeWHLedSw",
+      "link": "https://www.youtube.com/embed/NOhDyUmT9z0"
+    }
+  ],
+  "history": [
+    {
+      "caption": "gladiator 2",
+      "link": "https://www.youtube.com/embed/Ts0N8swyWFI",
+      "timeStamp": "11/08/2024, 09:30:54 PM",
+      "id": 4
+    },
+    {
+      "caption": "nosferatu",
+      "link": "https://www.youtube.com/embed/b59rxDB_JRg",
+      "timeStamp": "11/08/2024, 11:00:19 PM",
+      "id": 5
+    },
+    {
+      "caption": "the substance",
+      "link": "https://www.youtube.com/embed/LNlrGhBpYjc",
+      "timeStamp": "11/08/2024, 11:58:54 PM",
+      "id": 8
+    },
+    {
+      "caption": "deadpool & wolverine",
+      "link": "https://www.youtube.com/embed/73_1biulkYk",
+      "timeStamp": "11/09/2024, 12:04:07 AM",
+      "id": 9
+    },
+    {
+      "caption": "the substance",
+      "link": "https://www.youtube.com/embed/LNlrGhBpYjc",
+      "timeStamp": "11/10/2024, 04:19:29 PM",
+      "id": 10
+    },
+    {
+      "caption": "deadpool & wolverine",
+      "link": "https://www.youtube.com/embed/73_1biulkYk",
+      "timeStamp": "11/12/2024, 01:49:27 AM",
+      "id": 11
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "trailers",
+      "allVideos": [
+        {
+          "id": "9",
+          "caption": "Mission: Impossible – The Final Reckoning",
+          "url": "https://lh5.googleusercontent.com/proxy/cr8-YxSBBNFpd3_lKWPMbwII3_Ni5AvPSI3Q39CeBXXbECE-pN4AEV7bsV0i2Vpy7TGMvTcK1X34DM1aeSAuEtHgjZZnsfbisMJ25OSscsSS3j57PR0xBXyZyVBEGyeWHLedSw",
+          "link": "https://www.youtube.com/embed/NOhDyUmT9z0"
+        },
+        {
+          "id": "7",
+          "caption": "Mickey 17 | Official Trailer",
+          "url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/10/mickey_oneseven_xxlg.jpg",
+          "link": "https://www.youtube.com/embed/osYpGSz_0i4"
+        },
+        {
+          "id": "8",
+          "caption": "COOLIE - #Thalaivar171 ",
+          "url": "https://i0.wp.com/moviegalleri.net/wp-content/uploads/2024/04/Superstar-Rajinikanth-Coolie-Movie-Poster-HD-scaled.jpg?fit=1707%2C2560&ssl=1",
+          "link": "https://www.youtube.com/embed/6xqNk5Sf5jo"
+        },
+        {
+          "id": "5",
+          "caption": "gladiator 2",
+          "url": "https://yc.cldmlk.com/8egh4pzb72gwe1mpt1vtez21a8/uploads/vertical_dc62545c-96af-4322-9238-be582aac9cd9.jpg",
+          "link": "https://www.youtube.com/embed/Ts0N8swyWFI"
+        }
+      ]
+    },
+    {
+      "categoryName": "Movie Clips",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "gladiator 2",
+          "url": "https://yc.cldmlk.com/8egh4pzb72gwe1mpt1vtez21a8/uploads/vertical_dc62545c-96af-4322-9238-be582aac9cd9.jpg",
+          "link": "https://www.youtube.com/embed/Ts0N8swyWFI"
+        },
+        {
+          "id": "10",
+          "caption": "Mufasa: The Lion King",
+          "url": "https://i.pinimg.com/originals/5e/36/2b/5e362b5e63458faf7a66fef4179c451f.jpg",
+          "link": "https://www.youtube.com/embed/lMXh6vjiZrI"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
